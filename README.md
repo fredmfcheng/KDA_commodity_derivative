@@ -1,1 +1,1 @@
-# Analysis project on iron ore futures
+# Analysis project of iron ore futures
