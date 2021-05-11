@@ -1,6 +1,6 @@
 ## 1. "DCE_OLS_(20EMA).ipynb"
 
-A key driver analysis of the trade price of iron ore derivative of Dalian Commodity Exchange, by studying the relationship of the derivative price between i) the performance of global financial market and ii) the indices/ indicators of the steel market.
+A key driver analysis (KDA) of the trade price of iron ore derivative of Dalian Commodity Exchange, by studying the relationship of the derivative price between i) the performance of global financial market and ii) the indices/ indicators of the steel market.
 
 Feature Engineering: 
 - data is transformed into weekly level to reduce the noise from the daily level.
